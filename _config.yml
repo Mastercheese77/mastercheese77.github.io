@@ -20,9 +20,9 @@ resume-url: Qi_Resume_dec2020.pdf
 # and specify source (external or local).
 cv: true
 cv-external: false
-cv-url: Qi_CV_dec2020.pdf
+cv-url: Qi_CV_jan2021.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://Mastercheese77.github.io/me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -59,18 +59,12 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  lukeqi:
+    name: Luke Qi
+    bio: A quantum physicist wiggling through life
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
