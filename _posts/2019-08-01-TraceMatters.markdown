@@ -1,9 +1,9 @@
 ---
 title: "Custom Electronics in a Mass Spectrometer"
 layout: post
-date: 2019-08-05
+date: 2019-08-01
 tag: jekyll
-image: 
+image: /assets/images/error.gif
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,3 +13,4 @@ author: lukeqi
 externalLink: false
 ---
 
+Coming soon. 

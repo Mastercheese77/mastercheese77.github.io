@@ -1,0 +1,16 @@
+---
+title: "Shuttling Ions in a Quantum Computer"
+layout: post
+date: 2020-08-01
+tag: jekyll
+image: /assets/images/error.gif
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Documentation from Summer 2020."
+category: project
+author: lukeqi
+externalLink: false
+---
+
+Coming soon.
