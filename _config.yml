@@ -14,13 +14,13 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: Qi_Resume_mar2021.pdf
+resume-url: Qi_Resume_aug2021.pdf
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 cv: true
 cv-external: false
-cv-url: Qi_CV_mar2021.pdf
+cv-url: Qi_CV_oct2022.pdf
 
 url: https://Mastercheese77.github.io
 
